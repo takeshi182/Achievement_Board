@@ -1,0 +1,12 @@
+.logout {
+    height: 50px;
+    width: 150px;
+    color: black;
+    background-color: white;
+    border-radius: 5px;
+    text-align: center;
+    align-items: center;
+    font-size: medium;
+    border: 1px solid black;
+    margin: 5px 20px 20px 5px;
+}
